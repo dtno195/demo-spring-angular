@@ -3,7 +3,7 @@ package com.sd.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "customer")
+@Table(name = "tbl_customer")
 public class Customer {
  
 	@Id
